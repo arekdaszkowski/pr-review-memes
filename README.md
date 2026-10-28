@@ -1,4 +1,4 @@
 # PR review memes
 
-- `approve-knuckles.png` — approve
+- `approve.png` — approve (judge cat)
 - `no-approved-cat.png` — not approved / remaining items
